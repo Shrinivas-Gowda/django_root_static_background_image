@@ -1,0 +1,14 @@
+h1{
+    background-color: blueviolet;
+    color: ghostwhite;
+    align-items: center;
+}
+img{
+    border: 2px solid orangered;
+    padding: 10px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
